@@ -1,7 +1,7 @@
 const express = require('express')
 const { json } = require('sequelize')
 const app = express()
-const port = 3005
+const port = 5842
 const db = require('./models')
 const cors = require('cors')
 
